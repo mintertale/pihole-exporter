@@ -220,4 +220,6 @@ scrape_configs:
 
 [Link](https://github.com/SiM22/pihole-exporter-helm-chart)
 
+https://grafana.com/grafana/plugins/grafana-piechart-panel/
+
 This is a simple Helm Chart to deploy the exporter in a kubernetes cluster.
